@@ -39,6 +39,6 @@ O projeto foi feito utilizando das seguintes tecnologias
 
 Segue o link para download do APK (android)
 
-[Download apk]()
+[Download apk](https://expo.dev/artifacts/eas/wcxETgD4S3cmoRAUTKnqMq.apk)
 
 Desenvolvido por Jhonata Carvalho
